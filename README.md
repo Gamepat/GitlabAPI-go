@@ -1,2 +1,3 @@
-# gitlab_api-go
-Gitlab Api written in go
+# GitlabAPI-go
+
+Gitlab Api written in go 🚀
